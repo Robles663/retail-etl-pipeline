@@ -202,6 +202,9 @@ retail-etl-pipeline/
 │   ├── schema_oltp.sql             # Source database DDL
 │   └── schema_dwh.sql              # Star schema DDL + KPI views
 │
+├── scripts/
+│   └── etl_pipeline.py             # ETL pipeline script
+│
 ├── .env.example                    # Environment variables template
 ├── requirements.txt                # Python dependencies
 └── README.md
