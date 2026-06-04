@@ -269,8 +269,8 @@ notebooks/03_analysis.ipynb      # Business analysis
 - [x] Customer churn detection
 - [x] Return rate analysis
 - [x] RFM customer segmentation
-- [ ] Visualization dashboard
-- [ ] Automated pipeline orchestration
+- [x] Automated pipeline orchestration
+- [ ] Visualization dashboard 
 
 ---
 
